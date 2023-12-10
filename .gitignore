@@ -1,6 +1,9 @@
 #Octave
 MATLAB.gitignore
 
+#MyIgnores
+poetry.lock
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
